@@ -10,11 +10,11 @@ Dossiers are stored in [dossiers/](dossiers/README.md), one file per character; 
 
 Use the [dossier guidance](dossiers/README.md) for the current format.
 Reviewed summaries are indexed in [knowledge](../../20_knowledge/README.md); checks blocked by network access remain open there.
-Coordinate consumer requirements with [Tower Generator](../unit-generator/README.md) and the [MangaMayhem Unit Profile](../mangamayhem-unit-profile/README.md).
+Coordinate consumer requirements with [Tower Generator](../unit-generator/README.md) and the [MangaMayhem Unit Profile](https://github.com/mardwerk/planning/blob/d72f64f5eb45a854e9074940fd8f24b036800d53/projects/mangamayhem-unit-profile/README.md).
 
 [Planning issues](https://github.com/mardwerk/planning/issues) track research, questions, and shared decisions.
 Link relevant implementation work in [Tower Generator](https://github.com/mardwerk/tower-generator/issues) or [Manga Mayhem](https://github.com/mardwerk/manga-mayhem/issues).
-Put incoming notes and files in [Planning's inbox](../../00_inbox/README.md) for later review and sorting.
+Put incoming notes and files in [Planning's inbox](https://github.com/mardwerk/planning/blob/53266b2f9fbba920305cd7c31e16faa78af4ba16/00_inbox/README.md) for later review and sorting.
 
 This scope was adopted from an earlier draft goal.
 The unresolved character-atlas workbench candidate is a historical input, not an accepted dependency.

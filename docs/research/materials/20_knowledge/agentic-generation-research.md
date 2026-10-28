@@ -24,7 +24,7 @@ File codes: C = `UG-agentic-core`, G = `UG-agentic-generation`, R = `UG-R-game-d
   Its [ARCHITECTURE.md at `01000bf`](https://github.com/mardwerk/unit-generator/blob/01000bf1aa87feb5b3b19265312f03850472d807/docs/ARCHITECTURE.md) describes one fixed route: research without a model call, prepare one request, draft through a planning call and a mechanics call with a repair budget of 0 to 2, deterministic checks, an optional separate model review, render.
   It has "no automatic review-and-redraft loop".
   This answers C Q03 and G Q04 and is not an agent loop.
-  Its existence says nothing about output quality: the owner reports a generation quality regression with no isolated cause, recorded in the [Tower Generator workstream](../30_projects/unit-generator/README.md#earlier-generation-work).
+  Its existence says nothing about output quality: the owner reports a generation quality regression with no isolated cause, recorded in the [Tower Generator workstream](../30_projects/unit-generator/README.md#earlier-work).
 - **Confirmed**: Anthropic's "Building effective agents" separates workflows (predefined code paths) from agents (model-directed) and advises the simplest solution, adding agentic complexity only when its latency and cost pay off.
   It says nothing about Unit Generator.
 - **Confirmed**: "Demystifying evals for AI agents" recommends code, model and human graders, multiple trials, not grading exact tool-call paths, and calibrating LLM judges against human experts.

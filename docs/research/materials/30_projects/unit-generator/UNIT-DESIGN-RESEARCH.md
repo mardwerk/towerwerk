@@ -32,7 +32,7 @@ Primary links below remain usable from a standalone checkout.
 
 These are a closer fit than the old card/monster examples.
 Runtime claims still require a compatible Consumer; concept work can retain predicted scenarios and attributed review.
-The historical [REFINEMENT.md](https://github.com/mardwerk/unit-generator/blob/9244cd5/docs/REFINEMENT.md) described the study protocol at that commit. The [earlier generation work](README.md#earlier-generation-work) remains deferred until after the validator.
+The historical [REFINEMENT.md](https://github.com/mardwerk/unit-generator/blob/9244cd5/docs/REFINEMENT.md) described the study protocol at that commit. The [earlier generation work](README.md#earlier-work) remains deferred until after the validator.
 
 ## BTD6 facts
 

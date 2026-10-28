@@ -47,7 +47,7 @@ The retired setup and authoring experiment do not establish dependencies for the
 
 A Profile is a directory selected by path.
 Manga Mayhem's game-owned Profile remains separate and deferred; [#92](https://github.com/mardwerk/manga-mayhem/issues/92) tracks that work.
-The [MangaMayhem Unit Profile](../mangamayhem-unit-profile/README.md) workstream preserves its drafts without establishing game acceptance.
+The [MangaMayhem Unit Profile](https://github.com/mardwerk/planning/blob/d72f64f5eb45a854e9074940fd8f24b036800d53/projects/mangamayhem-unit-profile/README.md) workstream preserves its drafts without establishing game acceptance.
 
 ## Earlier work
 
@@ -57,4 +57,4 @@ The cause of the reported quality regression was not isolated in that review.
 The earlier [unit design research](UNIT-DESIGN-RESEARCH.md) and [bounded optimization proposal](AUTORESEARCH.md) remain historical references, rather than implemented workflows.
 
 Accepted contracts, implementation and reproducible evidence stay in the owning product repository.
-Put incoming unsorted notes and files in [Planning's inbox](../../00_inbox/README.md).
+Put incoming unsorted notes and files in [Planning's inbox](https://github.com/mardwerk/planning/blob/53266b2f9fbba920305cd7c31e16faa78af4ba16/00_inbox/README.md).

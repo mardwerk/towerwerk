@@ -19,7 +19,7 @@ These are dated source observations and proposals. Preserve their recorded revie
   Its current architecture runs one fixed generation route with bounded repair.
   The drafts' premise that no implementation exists is therefore stale, and their workspace-relative links are recorded as stale.
   Where they disagree, the product repository wins.
-  A running route, passing checks or replay parity is not evidence of good unit design: the owner reports a quality regression whose cause is not isolated, recorded in the [Tower Generator workstream](../30_projects/unit-generator/README.md#earlier-generation-work).
+  A running route, passing checks or replay parity is not evidence of good unit design: the owner reports a quality regression whose cause is not isolated, recorded in the [Tower Generator workstream](../30_projects/unit-generator/README.md#earlier-work).
 
 
 - **BTD6 facts.** The BTD6 source is [btd6-atlas](https://github.com/KyleDerZweite/btd6-atlas), which unit-generator also names as its authority; the capture manifest has not been accepted yet.
