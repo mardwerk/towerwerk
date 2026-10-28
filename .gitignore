@@ -12,3 +12,17 @@
 __pycache__/
 .ruff_cache/
 /.venv/
+
+# Shared Obsidian configuration only; install plugin bundles locally.
+/.obsidian/*
+!/.obsidian/app.json
+!/.obsidian/appearance.json
+!/.obsidian/community-plugins.json
+!/.obsidian/core-plugins.json
+!/.obsidian/graph.json
+!/.obsidian/snippets/
+!/.obsidian/plugins/
+/.obsidian/plugins/*
+!/.obsidian/plugins/*/
+/.obsidian/plugins/*/*
+!/.obsidian/plugins/*/data.json

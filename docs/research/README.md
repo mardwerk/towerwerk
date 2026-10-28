@@ -26,6 +26,8 @@ Their source proposals and historical commands do not override this repository's
 | [Recommendation](RECOMMENDATION.md) | Inspect an unaccepted architecture and experimental proposal. |
 
 No scholarly claims were newly verified or promoted by this cleanup.
+The two `persona_weaver26` citations in the recommendation point to the retained search-log lead because the research library has no matching entry.
+That lead records earlier inspection, not a newly verified paper or an accepted product requirement.
 The retained records contain abstract-level claims, historical temporary-file references and inconsistencies between older scope and later proposals.
 Review a primary source before using a claim to justify a product decision.
 The retired Gojo simulation did not establish canon fidelity, Plants vs. Zombies runtime behavior or balance.
@@ -35,3 +37,10 @@ Add one only when a current requirement and observed failure justify it.
 Record accepted product guidance in the product documents rather than treating a source proposal as a decision.
 
 - [Local research source collections](materials/README.md)
+
+## Optional Obsidian reading
+
+Open the repository as a vault to use the shared reading configuration and `research` CSS snippet.
+The community plugin list and plugin `data.json` settings are retained; install those plugins through Obsidian rather than committing their downloaded bundles.
+Personal workspace state and other installed plugin files are ignored.
+The removed files are recoverable from commit `060f5053f09bcb542be1b0d4db1fda39f3e4d2ba` under [#126](https://github.com/mardwerk/towerwerk/issues/126).

@@ -41,3 +41,16 @@ Keep generated records local and ignored by Git; do not publish the BTD6 corpus 
 Atlas's BTD6 Profile describes BTD6 data and is separate from td-profile's generic Profile Template.
 Dart Monkey's Atlas verification remains accepted reference evidence.
 The [older generator attribution](https://github.com/mardwerk/tower-generator/blob/generator-before-validator-reset-2026-09-29/docs/BTD6-REFERENCE.md) preserves its source mappings and deliberate departures.
+
+### Retained historical catalogue
+
+The [cold-store upgrade catalogue](research/materials/99-cold-store/upgrade_catalog.csv) is preserved source evidence, not a current Atlas capture or a supported game-data import.
+Its SHA-256 is `0d9505b191318cc14abf16504778f085dbce146afd1cc617e56770815486cec0`, matching the [snapshot provenance record](research/materials/20_knowledge/btd6-snapshot.md#raw-evidence).
+Its 390 rows cite [Cyber Quincy costs](https://github.com/hemisemidemipresent/cyberquincy/blob/master/jsons/costs.json) in `cost_source` and [Btd6ModHelper game-data](https://github.com/Btd6ModHelper/btd6-game-data) tower exports in `mechanic_source`.
+Those CSV URLs name moving branches and do not establish the original source revisions.
+
+On 2026-10-28, GitHub identified Cyber Quincy's repository licence as AGPL-3.0 in [LICENSE.md](https://github.com/hemisemidemipresent/cyberquincy/blob/master/LICENSE.md); the Btd6ModHelper game-data licence endpoint returned HTTP 404.
+Neither result establishes permission to redistribute this derived table or a licence for its game content.
+The Atlas CC BY-NC 4.0 statement above does not establish a licence for this independently sourced catalogue.
+[Issue #132](https://github.com/mardwerk/towerwerk/issues/132) owns the unresolved source-permission and retention decision.
+This clarification preserves the existing evidence without selecting a publication exception or authorizing new generated data in Git.
